@@ -1,6 +1,6 @@
 # Maria Felipa LAB
 
-![Maria Felipa LAB Logo](https://imgur.com/YStM5gh)
+![Maria Felipa LAB Logo](https://imgur.com/a/YzJvx7h)
 
 O Maria Felipa LAB é um espaço maker desenvolvido pelo Instituto Anísio Teixeira que oferece um ambiente completo de fabricação de soluções de baixa e alta tecnologia. Nosso objetivo é impulsionar a educação através da adoção de novas tecnologias e abordagens pedagógicas, como a Cultura Maker e a Aprendizagem Criativa.
 
